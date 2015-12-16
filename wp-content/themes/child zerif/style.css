@@ -1,0 +1,24 @@
+/*
+Theme name: child zerif
+description: learnind childtheme
+Author: Alejandro
+version: 1.0
+template: zerif-lite
+*/
+@import url('../zerif-lite/style.css');
+
+.focus {
+    padding-bottom: 100px;
+    overflow: hidden;
+    background-image:  url("bg3.png");
+    }
+ .latest-news {
+    padding-bottom: 66px;
+    padding-top: 100px;
+    background-image: url("bg3.png");
+}
+.our-team {
+    padding-bottom: 66px;
+    padding-top: 100px;
+    background-image: url("bg3.png");
+}
